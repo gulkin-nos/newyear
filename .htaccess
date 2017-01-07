@@ -1,0 +1,6 @@
+Options Indexes FollowSymLinks
+DirectoryIndex index.php
+#AddDefaultCharset WINDOWS-1251
+#AddDefaultCharset UTF-8
+#php_value mbstring.internal_encoding UTF-8
+#php_value mbstring.internal_encoding WINDOWS-1251
